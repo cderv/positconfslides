@@ -3,9 +3,9 @@ title: "Presentation title"
 subtitle: "🔗 [mine.quarto.pub/conf2023-template](https://mine.quarto.pub/conf2023-template)"
 author: "Author"
 title-slide-attributes: 
-  data-background-color: black
+  data-background-color: 'rgb(65, 149, 153)'
   data-background-image:  _extensions/positconfslides/assets/backgrounds/toc-people-dark.svg
-  data-background-size: stretch
+  data-background-size: contain
 format:
   positconfslides-revealjs: 
     chalkboard: true
